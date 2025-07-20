@@ -1,0 +1,17 @@
+@import url("reset.css");
+
+.contacts {
+    
+}
+
+.phone {
+    color: rgb(111, 1, 1);
+}
+
+.telegram {
+    color: rgb(0, 132, 255);
+}
+
+.instagram {
+    color: rgb(200, 0, 255);
+}
