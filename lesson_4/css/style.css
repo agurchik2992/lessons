@@ -1,0 +1,42 @@
+@import url("reset.css");
+
+* {
+    color: gray;
+}
+
+p {
+    color: blueviolet;
+}
+
+.text,
+.lesson {
+    color: blue;
+}
+
+.sub-title span {
+    color: lawngreen;
+}
+
+.title .span {
+    color: lightcoral;
+}
+
+.title.span {
+    color: red;
+}
+
+div > .sub-title {
+    color: aqua;
+}
+
+.div-title ~ p {
+	color: lightsalmon;
+}
+
+.div-text + p {
+	color: red;
+}
+
+#il-id {
+	color: plum;
+}
